@@ -36,16 +36,16 @@
 ![WeightAndBiases](https://img.shields.io/badge/W&B-F6C915?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 ![ONNX](https://img.shields.io/badge/ONNX-A6A9AA?style=for-the-badge&logo=onnx&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/13848158/155354483-75d9853f-7154-4d95-8190-9ad7a73d6654.png" width="40" />
-<img src="https://pbs.twimg.com/profile_images/1613861791515164672/B0KbTzkx_400x400.jpg" width="40">
-<img src="https://avatars.githubusercontent.com/u/30523139?s=200&v=4
-" width="40">
-<img src="https://github.com/voxel51/fiftyone/blob/develop/docs/source/_static/images/voxel51_300dpi.png?raw=true" width="40" style="background-color:white">
-<img src="https://github.com/dagster-io/dagster/blob/master/docs/next/public/assets/logos/small.png?raw=true" height="40" style="background-color:white">
+| <img src="https://user-images.githubusercontent.com/13848158/155354483-75d9853f-7154-4d95-8190-9ad7a73d6654.png" width="40" />
+| <img src="https://pbs.twimg.com/profile_images/1613861791515164672/B0KbTzkx_400x400.jpg" width="40">
+| <img src="https://media.licdn.com/dms/image/C4D0BAQGymruMZwClxw/company-logo_200_200/0/1668685446449?e=2147483647&v=beta&t=-behWvv4hZ9QFMkomDJQKTGhuheYxAiGMPLr_rKbmaQ" width="40">
+| <img src="https://github.com/voxel51/fiftyone/blob/develop/docs/source/_static/images/voxel51_300dpi.png?raw=true" width="40" style="background-color:white">
+| <img src="https://github.com/dagster-io/dagster/blob/master/docs/next/public/assets/logos/small.png?raw=true" height="40" style="background-color:white">
+|
 
-<img src="https://raw.githubusercontent.com/facebookresearch/hydra/53d07f56a272485cc81596d23aad33e18e007091/website/static/img/Hydra-Readme-logo1.svg" height="40" style="background-color:white">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Boost.png?20190727052955" height="40" style="background-color:white">
-
+| <img src="https://raw.githubusercontent.com/facebookresearch/hydra/53d07f56a272485cc81596d23aad33e18e007091/website/static/img/Hydra-Readme-logo1.svg" height="40" style="background-color:white">
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Boost.png?20190727052955" height="40" style="background-color:white">
+|
 ---
 ## Activity Status
 
